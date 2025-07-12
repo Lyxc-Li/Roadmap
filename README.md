@@ -2,4 +2,4 @@
 roadmap.sh
 
 Projecturl:
-https://github.com/Lyxc-Li/Roadmap
+https://roadmap.sh/projects/single-page-cv
